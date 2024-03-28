@@ -1,0 +1,1 @@
+ C:\\Users\\pc\\OneDrive\\Área\ de\ Trabalho\\JOBS\\flutter\\3116-Flutter-MVC-Aula1\\.dart_tool\\flutter_build\\bef4c2cb880d8db08e4226f8cd77657e\\native_assets.yaml: 
